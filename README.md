@@ -17,7 +17,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://ohiole.github.io/Result-Summary/)
 
 ## My process
 
